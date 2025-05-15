@@ -7,7 +7,7 @@ const countries = [
   { name: "USA", code: "us", left: "21.1%", top: "27.51%" },
   { name: "Saudi Arabia", code: "sa", left: "58.75%", top: "38.15%" },
   { name: "Dubai", code: "ae", left: "62.95%", top: "38.25%", direction: "down" }, // 👈 only this has "down"
-  { name: "Egypt", code: "eg", left: "54.63%", top: "43.54%", direction: "down" },
+  { name: "Egypt", code: "eg", left: "54.63%", top: "42.54%", direction: "down" },
   { name: "India", code: "in", left: "68.9%", top: "39.99%" },
   { name: "Singapore", code: "sg", left: "75.5%", top: "51.9%" },
   { name: "Australia", code: "au", left: "83.88%", top: "63.9%" },

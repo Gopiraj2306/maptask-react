@@ -8,12 +8,12 @@ const imageUrls = [
   'https://picsum.photos/300/200?random=1',
   'https://picsum.photos/300/200?random=2',
   'https://picsum.photos/300/200?random=3',
-  'https://source.unsplash.com/random/300x200?sig=5',
-  'https://source.unsplash.com/random/300x200?sig=6',
-  'https://source.unsplash.com/random/300x200?sig=7',
-  'https://source.unsplash.com/random/300x200?sig=8',
-  'https://source.unsplash.com/random/300x200?sig=9',
-  'https://source.unsplash.com/random/300x200?sig=10',
+   gif1,
+  'https://picsum.photos/300/200?random=4',
+   gif1,
+  'https://picsum.photos/300/200?random=5',
+   gif1,
+  'https://picsum.photos/300/200?random=7',
 ];
 
 const ImageCardContainer = () => {

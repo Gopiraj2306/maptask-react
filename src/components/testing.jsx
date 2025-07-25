@@ -7,7 +7,7 @@ const imageUrls = [
    gif1,
   'https://picsum.photos/300/200?random=1',
   'https://picsum.photos/300/200?random=2',
-  'https://source.unsplash.com/random/300x200?sig=4',
+  'https://picsum.photos/300/200?random=3',
   'https://source.unsplash.com/random/300x200?sig=5',
   'https://source.unsplash.com/random/300x200?sig=6',
   'https://source.unsplash.com/random/300x200?sig=7',

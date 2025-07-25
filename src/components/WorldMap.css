@@ -1,4 +1,6 @@
-
+body{
+  margin-top: 100px;
+}
 .map-container {
   position: relative;
   width: 100%;
@@ -101,5 +103,23 @@
   font-size: 12px;
   font-weight: 500;
 }
-  
+ .card-container {
+  background-color: #666666;
+  display: flex;
+  /* flex-wrap: wrap; */
+  justify-content: center;
+  gap: 16px;
+  padding: 20px;
+}
+
+.image-card {
+  width: 300px;
+  transition: transform 0.3s ease;
+}
+
+.image-card:hover {
+  transform: scale(1.05);
+  cursor: pointer;
+}
+
  

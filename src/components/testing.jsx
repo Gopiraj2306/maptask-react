@@ -1,11 +1,12 @@
 import React from 'react';
 import { Card, CardMedia } from '@mui/material';
 import './WorldMap.css'; // you can customize here
+import gif1 from '../assets/gif1.gif';
 
 const imageUrls = [
-  'https://source.unsplash.com/random/300x200?sig=1',
-  'https://source.unsplash.com/random/300x200?sig=2',
-  'https://source.unsplash.com/random/300x200?sig=3',
+   gif1,
+  'https://picsum.photos/300/200?random=1',
+  'https://picsum.photos/300/200?random=2',
   'https://source.unsplash.com/random/300x200?sig=4',
   'https://source.unsplash.com/random/300x200?sig=5',
   'https://source.unsplash.com/random/300x200?sig=6',

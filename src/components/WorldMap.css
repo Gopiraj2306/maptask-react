@@ -106,7 +106,7 @@ body{
  .card-container {
   background-color: #666666;
   display: flex;
-  /* flex-wrap: wrap; */
+  flex-wrap: wrap;
   justify-content: center;
   gap: 16px;
   padding: 20px;

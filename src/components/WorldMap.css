@@ -122,5 +122,15 @@ body{
   transform: scale(1.05);
   cursor: pointer;
 }
-
+.dd{
+  display: flex;
+  justify-content: space-between;
+  background-color: #a21d1d;
+}
+.design{
+  background-color: #ea6100;
+  height: 300px;
+  width: 300px;
+  border-radius: 10px;
+}
  

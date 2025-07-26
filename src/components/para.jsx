@@ -1,8 +1,15 @@
+import worldMap from '../assets/Worldmap.png';
+
 function Para(){
     return(
-        <div>
-            <p>how to resolve merge conflict error</p>
+        <div className='dd' >
+        <div className="design"></div>
+        <div className="design"></div>
+        <div className="design"></div>
+        <div className="design"></div>
         </div>
+            
+        
     )
 }
 export default Para

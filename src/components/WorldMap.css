@@ -132,5 +132,8 @@ body{
   height: 300px;
   width: 300px;
   border-radius: 10px;
+  color: black;
+  font-size: 30px;
+  text-align: center;
 }
  

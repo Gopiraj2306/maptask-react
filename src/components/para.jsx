@@ -9,7 +9,7 @@ function Para(){
         <div className="design">sugu</div>
         </div>
             
-        
+        // gopiiiii
     )
 }
 export default Para

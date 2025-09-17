@@ -13,7 +13,7 @@ const imageUrls = [
    gif1,
   'https://picsum.photos/300/200?random=5',
    gif1,
-  'https://picsum.photos/300/200?random=7',
+   gif1,
 ];
 
 const ImageCardContainer = () => {

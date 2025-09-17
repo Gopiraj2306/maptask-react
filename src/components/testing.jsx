@@ -13,12 +13,14 @@ const imageUrls = [
    gif1,
   'https://picsum.photos/300/200?random=5',
    gif1,
-  'https://picsum.photos/300/200?random=7',
+   gif1,
 ];
 // khlkjlkjlkj
 const ImageCardContainer = () => {
   return (
+    
     <div className="card-container" >
+      <h1>heading</h1>
       {imageUrls.map((url, index) => (
         <Card className="image-card" key={index}>
           <CardMedia

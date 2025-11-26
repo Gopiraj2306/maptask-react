@@ -15,7 +15,7 @@ const imageUrls = [
    gif1,
    gif1,
 ];
-
+// khlkjlkjlkj
 const ImageCardContainer = () => {
   return (
     
